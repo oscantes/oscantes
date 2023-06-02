@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can see my portfolio <a href="oscantes.github.io/portfolio_temp/">here</a><br/>
+You can see my portfolio <a href="https://oscantes.github.io/portfolio_temp/">here</a><br/>
 Sorry for the mess, I'll get it right soon
 <!--
 **oscantes/oscantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
