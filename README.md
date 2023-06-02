@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can see my portfolio at: 
+Sorry for the mess, I'll get it right soon
 <!--
 **oscantes/oscantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
