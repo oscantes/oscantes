@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can see my portfolio at: 
+You can see my portfolio at: oscantes.github.io/portfolio_temp/ <br/>
 Sorry for the mess, I'll get it right soon
 <!--
 **oscantes/oscantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
